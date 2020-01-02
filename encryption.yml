@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: ljl2020
+    password: '{cipher}c8b9ea78585ee6a4f32843cb59bdd604abb4c874674c0c90b628844e7102f6fc'
